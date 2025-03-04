@@ -1,7 +1,3 @@
-Here’s your **finalized README.md** with the updated introduction:  
-
----
-
 # **🌲 Forest Cover Type Prediction**  
 
 📌 **Predict the type of forest cover for a 30m × 30m land patch using Machine Learning.**  
