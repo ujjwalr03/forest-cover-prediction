@@ -37,7 +37,7 @@ Make sure `train.csv` is in the **same folder** as the script.
 
 ### **4️⃣ Run the Script**  
 ```bash
-python forest_cover_prediction.py
+python forest-cover-prediction.py
 ```
 
 ---
@@ -45,7 +45,7 @@ python forest_cover_prediction.py
 ## **🔗 Open in Google Colab**  
 Click below to open the notebook in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujjwalr03/forest-cover-prediction/blob/main/forest_cover_prediction_colab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujjwalr03/forest-cover-prediction/blob/main/forest-cover-prediction-colab.ipynb)  
 
 ### **Steps in Google Colab**  
 1. Click the **"Open in Colab"** button above.  
